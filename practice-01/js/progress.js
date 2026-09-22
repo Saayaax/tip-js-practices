@@ -1,7 +1,7 @@
 "use strict";
 
-const totalTasks = 12;
-const completedTasks = 5;
+const totalTasks = 18;
+const completedTasks = 6;
 
 // Здесь разместите своё решение.
 
